@@ -1,26 +1,27 @@
-# customer_banking
-Banking system
-
 # Customer Banking System Project
 
 ## Introduction
 
-In this project, you'll be creating a **customer banking system** that allows users to calculate and track interest earned on savings and CD accounts. By running this application, users will be able to enter their savings and CD account information, see the interest earned, and view the updated balances after a specified number of months.
+Unleash the power of your savings with our cutting-edge customer banking system!
+Watch your money grow as you effortlessly track interest on savings and CDs, and visualize your future wealth with just a few clicks.
 
 ## Project Objectives
 
-The main objectives of this project are:
-- To understand the basics of **Python programming**.
-- To learn how to handle **user input** and **output**.
-- To work with **dictionaries** and **loops**.
-- To perform **file handling** for data storage.
+-Create the Savings Account Function
+-Create the CD Account Function
+-Create the Main Function
+
 
 ## Features
 
-1. **User Authentication**: Users can create an account and log in.
-2. **Account Management**: Users can add savings and CD accounts.
-3. **Interest Calculation**: The system calculates interest based on the account type and balance.
-4. **Balance Update**: Users can view updated balances after a specified number of months.
+-Account management: Users can enter and manage their savings and CD account information.
+-Interest calculation: The system calculates interest earned on both savings and CD accounts.
+-Balance tracking: Users can view updated account balances after interest is applied.
+-Time projection: Ability to see account growth over a specified number of months.
+-User-friendly interface: Allows easy input of account details and viewing of results.
+-Multiple account types: Supports both savings and CD accounts in one system.
+-Financial planning tool: Helps users visualize potential earnings over time.
+-Personalized insights: Provides tailored information based on individual account details.
 
 ## Implementation
 
