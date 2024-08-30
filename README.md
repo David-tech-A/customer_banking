@@ -35,11 +35,4 @@ def login(username, password):
 
 
 
-## Other .md Variants
-
-- **Bold and Italic**
-- <u>Underline</u>
-- ~~Strikethrough~~
-- ==Highlight==
-- Subscript: H<sub>2</sub>O
 
