@@ -22,16 +22,6 @@
 - **Personalized insights**: Provides tailored information based on individual account details.
 
 
-### User Authentication
-
-```python
-def create_account(username, password):
-    # Code to create a new user account
-    pass
-
-def login(username, password):
-    # Code to authenticate user
-    pass
 
 
 
